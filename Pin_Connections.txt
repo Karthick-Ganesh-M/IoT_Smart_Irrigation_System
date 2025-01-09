@@ -1,0 +1,67 @@
+                                                                           SMART SYSTEM IRRIGATION CONNECTIONS
+
+
+
+               SOIL MOISTURE
+
+Soil Moisture A0 Connected to D22 of ESP32
+Soil Moisture VCC Connected to 3.3V of ESP32
+Soil Moisture  GND Connected to GND of ESP32
+
+               LCD CONNECTION
+
+LCD GND Connected to GND of ESP32
+LCD VCC Connected to 3.3V of ESP32
+LCD SDA Connected to 19 of ESP32
+LCD SCL Connected to 18 of ESP32
+
+               RELAY CONNECTION
+
+Relay IN Connected to D3 of ESP32
+Relay VCC Connected to 5V of ESP32
+Relay GND Connected to GND of ESP32
+
+COM Connected to 5V
+Motor Red wire connected to NO and Battery holder Red Wire
+Motor Black wire connected to Battery holder Black Wire
+
+              NPK CONNECTION
+
+NPK Yellow wire connected to MAX485 A
+NPK Blue wire connected to MAX485 B
+NPK Brown wire(VCC) connected to ESP32(Vin)
+NPK Black wire(GND) connected to ESP32(GND)
+
+MAX485 (VCC) Connected to 5V of ESP32
+MAX485 (GND) Connected to GND of ESP32
+MAX485 (RO) Connected to D5 of ESP32
+MAX485 (RE) Connected to D4 of ESP32
+MAX485 (DE) Connected to D3 of ESP32
+MAX485 (DI) Connected to D6 of ESP32
+
+             LCD CONNECTION
+
+LCD GND Connected to GND of ESP32
+LCD VCC Connected to 3.3V of ESP32
+LCD SDA Connected to 19 of ESP32
+LCD SCL Connected to 18 of ESP32
+
+             GPS & GSM CONNECTION
+
+Connect GPS Antenna with Network Cable
+VCC Connected to VCC 
+RX Connected to D1
+TX Connected to D2
+GND Connected to GND
+
+
+
+
+
+
+
+
+
+
+
+
