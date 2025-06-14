@@ -3,7 +3,7 @@
                               🌱 SMART IoT-BASED IRRIGATION SYSTEM
                               
 *The Smart IoT-Based Irrigation System is an intelligent solution designed to automate the irrigation process using real-time environmental and soil data. By leveraging a network of sensors and IoT modules, the system ensures efficient water usage and helps maintain optimal soil conditions for plant growth.
-*The core objective of this project is to reduce manual intervention in farming, minimize water wastage, and provide real-time updates to the user through GSM communication and GPS tracking. The system continuously *monitors parameters such as temperature, humidity, soil moisture, and nutrient content (NPK levels), and automatically activates a water pump when the soil moisture falls below a defined threshold.
+The core objective of this project is to reduce manual intervention in farming, minimize water wastage, and provide real-time updates to the user through GSM communication and GPS tracking. The system continuously Monitors parameters such as temperature, humidity, soil moisture, and nutrient content (NPK levels), and automatically activates a water pump when the soil moisture falls below a defined threshold.
 This project demonstrates the integration of hardware sensors with microcontroller logic, cloudless communication, and location tracking — making it a practical, scalable, and eco-friendly solution for smart agriculture.
 
                             📍 SENSORS AND MODULES
